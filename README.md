@@ -13,7 +13,7 @@ I did NOT come up with this <br />
 6) Open the profile of the channel of the playlist you want to import <br />
 7) The URL will read https://www.youtube.com/channel/<b>ASDASDASDASDASD</b> the <b>ASDASDASDASDASD</b> part is what you'll want to copy to your clipboard <br />
 8) Go back to plug and paste the <b>ASDASDASDASDASD</b> into the "YouTube ChannelID" <br />
-9) Press "search" <br />
+9) Press "import" <br />
 10) ??? <br />
 11) Profit <br />
 12) I've used this same (outdated) meme in two other gits. I need a new meme.
